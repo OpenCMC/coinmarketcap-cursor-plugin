@@ -1,0 +1,20 @@
+{
+  "name": "coinmarketcap",
+  "version": "1.0.0",
+  "description": "Free cryptocurrency market data and research through CoinMarketCap MCP. Optional paid plans provide higher usage limits.",
+  "author": {
+    "name": "CoinMarketCap",
+    "email": "tech_accounts@coinmarketcap.com"
+  },
+  "homepage": "https://coinmarketcap.com/api/mcp/",
+  "repository": "https://github.com/OpenCMC/coinmarketcap-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "coinmarketcap",
+    "crypto",
+    "market-data",
+    "mcp"
+  ],
+  "logo": "assets/logo.png",
+  "mcpServers": "mcp.json"
+}
